@@ -13,10 +13,10 @@
       "date_added": "02-05-2024"
     },
     {
-      "name": "mammut",
-      "description": "hiking bag",
-      "price": 15000,
-      "date_added": "02-05-2024"
-    }
+        "name": "mammut",
+        "description": "hiking bag",
+        "price": 15000,
+        "date_added": "02-05-2024"
+      }
   ]
   
