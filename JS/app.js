@@ -1,4 +1,3 @@
-// script.js
 document.addEventListener('DOMContentLoaded', fetchData);
 
 function fetchData() {
@@ -13,7 +12,14 @@ function displayData(data) {
 
   data.forEach(item => {
     const listItem = document.createElement('li');
-    listItem.textContent = `Name: ${item.name}, Description: ${item.description}, Price: $${item.price}, Date Added: ${item.date_added}`;
+    listItem.innerHTML = `
+      <ul>
+        <li><strong>Name:</strong> ${item.name}</li>
+        <li><strong>Description:</strong> ${item.description}</li>
+        <li><strong>Price:</strong> $${item.price}</li>
+        <li><strong>Date Added:</strong> ${item.date_added}</li>
+      </ul>
+    `;
     dataList.appendChild(listItem);
   });
 }
