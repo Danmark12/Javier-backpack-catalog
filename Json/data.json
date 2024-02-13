@@ -1,22 +1,23 @@
-
 [
-    {
-      "name": "osprey",
-      "description": "hiking bag",
-      "price": 10000,
-      "date_added": "02-05-2024"
-    },
-    {
-      "name": "nepa",
-      "description": "hiking bag",
-      "price": 5000,
-      "date_added": "02-05-2024"
-    },
-    {
-        "name": "mammut",
-        "description": "hiking bag",
-        "price": 15000,
-        "date_added": "02-05-2024"
-      }
-  ]
-  
+  {
+      "name": "Osprey",
+      "description": "Hiking backpack",
+      "price": 1000,
+      "date_added": "02-05-2024",
+      "image": "https://www.osprey.com/media/catalog/product/cache/ca35d37a47a35be7104c909d8374b4c3/v/o/voltef65_s23_side_mutedspaceblue.jpg" // assuming the image name is 'osprey.jpg'
+  },
+  {
+      "name": "Nepa",
+      "description": "Hiking backpack",
+      "price": 500,
+      "date_added": "02-05-2024",
+      "image": "https://media.karousell.com/media/photos/products/2020/10/7/nepa_calix_32_hiking_outdoor_b_1602076039_242d5f8c.jpg" // assuming the image name is 'nepa.jpg'
+  },
+  {
+      "name": "Mammut",
+      "description": "Hiking backpack",
+      "price": 1500,
+      "date_added": "02-05-2024",
+      "image": "https://www.peakmountaineering.com/wp-content/uploads/2019/10/Trion-Spine-35-Rucksack.png" // assuming the image name is 'mammut.jpg'
+  }
+]
