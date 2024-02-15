@@ -1,23 +1,45 @@
 [
-  {
-      "name": "Osprey",
-      "description": "Hiking backpack",
-      "price": 1000,
-      "date_added": "02-05-2024",
-      "image": "https://www.osprey.com/media/catalog/product/cache/ca35d37a47a35be7104c909d8374b4c3/v/o/voltef65_s23_side_mutedspaceblue.jpg" // assuming the image name is 'osprey.jpg'
-  },
-  {
-      "name": "Nepa",
-      "description": "Hiking backpack",
-      "price": 500,
-      "date_added": "02-05-2024",
-      "image": "https://media.karousell.com/media/photos/products/2020/10/7/nepa_calix_32_hiking_outdoor_b_1602076039_242d5f8c.jpg" // assuming the image name is 'nepa.jpg'
-  },
-  {
-      "name": "Mammut",
-      "description": "Hiking backpack",
-      "price": 1500,
-      "date_added": "02-05-2024",
-      "image": "https://www.peakmountaineering.com/wp-content/uploads/2019/10/Trion-Spine-35-Rucksack.png" // assuming the image name is 'mammut.jpg'
-  }
+    {
+        "name": "Osprey",
+        "description": "Hiking backpack",
+        "price": 10000,
+        "date_added": "02-05-2024",
+        "image": "https://www.osprey.com/media/catalog/product/cache/ca35d37a47a35be7104c909d8374b4c3/v/o/voltef65_s23_side_mutedspaceblue.jpg"
+    },
+    {
+        "name": "Naturehike",
+        "description": "Hiking backpack",
+        "price": 5000,
+        "date_added": "02-05-2024",
+        "image": "https://media.karousell.com/media/photos/products/2020/10/7/nepa_calix_32_hiking_outdoor_b_1602076039_242d5f8c.jpg"
+    },
+    {
+        "name": "Mammut",
+        "description": "Hiking backpack",
+        "price": 15000,
+        "date_added": "02-05-2024",
+        "image": "https://www.peakmountaineering.com/wp-content/uploads/2019/10/Trion-Spine-35-Rucksack.png"
+    },
+    {
+        "name": "Gregory",
+        "description": "Travel backpack",
+        "price": 20000,
+        "date_added": "02-10-2024",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLa-GOyYiCE0STV6O1Fpc-nRW9t8wlCnvuw&usqp=CAU"
+    },
+    {
+        "name": "Deuter Aircontact Core 65+10",
+        "description": "Travel backpack",
+        "price": 25000,
+        "date_added": "02-11-2024",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7bHKU6xoyK8BjXJpOF7pwGK1gVeDeNgr6Q&usqp=CAU"
+    },
+    {
+        "name": "Mountaintop",
+        "description": "Travel backpack",
+        "price": 30000,
+        "date_added": "02-12-2024",
+        "image": "https://mountaintop-outdoor.com/cdn/shop/products/b62d22128786f8468f7ad4a039ab48fa.jpg?v=1698914493"
+    }
+    
 ]
